@@ -86,47 +86,7 @@
 
 ---
 
-# 🚀 **Flagship Projects**
 
-## 🛡️ AI Security Operations Copilot
-
-Multi-agent cybersecurity assistant capable of:
-- log analysis
-- anomaly detection
-- remediation generation
-- SOC workflow automation
-
-### Stack
-`Python` `CrewAI` `FastAPI` `LLMs` `Docker`
-
----
-
-## 📊 LinkedIn & Google Ads Intelligence Agent
-
-AI-powered ad analytics system that:
-- audits campaigns
-- detects wasted spend
-- generates optimization recommendations
-- automates reporting workflows
-
-### Stack
-`CrewAI` `n8n` `Google Ads API` `LinkedIn Ads API`
-
----
-
-## 🤖 Workflow Automation Infrastructure
-
-Automation platform integrating:
-- APIs
-- spreadsheets
-- dashboards
-- AI agents
-- operational workflows
-
-### Stack
-`Node.js` `MongoDB` `Express.js` `n8n`
-
----
 
 ## 🌐 **Professional Network**
 
