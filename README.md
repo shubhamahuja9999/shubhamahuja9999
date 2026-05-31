@@ -159,3 +159,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 ---
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puravbhatt0504/puravbhatt0504/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puravbhatt0504/puravbhatt0504/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/puravbhatt0504/puravbhatt0504/output/github-snake.svg" width="100%"/>
+</picture>
