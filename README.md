@@ -1,18 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Ahuja&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Engineer%20%7C%20Cybersecurity%20Builder%20%7C%20Agentic%20Systems&descSize=16&descAlignY=51"/>
+<img src="./hero-banner.png" width="100%" alt="Shubham Ahuja AI Automation Engineer"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Automation+Systems;Developing+Cybersecurity+Solutions;Creating+Multi-Agent+AI+Workflows;Automating+Analytics+and+Operations" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ### **Building Intelligent Systems That Automate Real Work**
 
