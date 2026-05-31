@@ -154,9 +154,9 @@
 
 </div>
 
-![Image](https://github.com/user-attachments/assets/69b0fdf3-3ffc-4b0b-84b8-4eba80c0ba50)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+
 
 ---
 ## 🐍 Contribution Snake
